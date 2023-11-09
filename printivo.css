@@ -1,0 +1,61 @@
+body{
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: aliceblue;
+}
+
+.t1 img{
+    width:45vh;
+    height: 35vh
+}
+.t1{
+    width: 45vh;
+    height: 70vh;
+    background-color: white;
+    display: inline-block;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+
+.t2 img{
+    width:45vh;
+    height: 35vh
+}
+.t2{
+    width: 45vh;
+    height: 70vh;
+    background-color: white;
+    display: inline-block;
+    margin-left: 12px;
+    cursor: pointer;
+}
+
+
+.t3 img{
+    width:45vh;
+    height: 35vh;
+}
+
+.t3{
+    width: 45vh;
+    height: 70vh;
+    background-color: white;
+    display: inline-block;
+    margin-left: 12px;
+    cursor: pointer;
+}
+
+
+.t4 img{
+    width:45vh;
+    height: 35vh
+}
+.t4{
+    width: 45vh;
+    height: 70vh;
+    background-color: white;
+    display: inline-block;
+    margin-left: 12px;
+    cursor: pointer;
+}
